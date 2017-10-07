@@ -1,0 +1,48 @@
+h1	{
+	text-align: center;
+	color:		white;
+	font-size: 150%;
+}
+
+.tda {
+	width: 120px;
+	height: 80px;
+	border: 4px solid cyan;
+}
+
+.tdv {
+	width: 120px;
+	height: 80px;
+}
+
+tr {
+	
+}
+table {
+	border-collapse: collapse;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.num {
+	background-color: pink;
+	font-size: medium;
+	text-align: left;
+	color: blue;
+}
+
+.pd {
+	font-size: medium;
+	text-align: right;
+	background-color: pink;
+	color: white;
+}
+
+.symb {
+	font-size: x-large;
+	text-align: center;
+	background-color: pink;
+	color: red;
+}

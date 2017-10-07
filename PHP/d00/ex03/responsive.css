@@ -1,0 +1,52 @@
+h1	{
+	text-align: center;
+	color:		white;
+	font-size: 1vw;
+}
+
+.tda {
+	width: 3vw;
+	height: 3vw;
+	border: 4px solid cyan;
+	font-size: 3vw;
+}
+
+.tdv {
+	width: 3vw;
+	height: 3vw;
+	font-size: 3vw;
+}
+
+tr {
+	
+}
+table {
+	border-collapse: collapse;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 0.5vw;
+}
+
+.num {
+	background-color: pink;
+	font-size: medium;
+	text-align: left;
+	color: blue;
+	font-size: 0.5vw;
+}
+
+.pd {
+	text-align: right;
+	background-color: pink;
+	color: white;
+	font-size: 0.5vw;
+}
+
+.symb {
+	text-align: center;
+	background-color: pink;
+	color: red;
+	font-size: 1vw;
+}
